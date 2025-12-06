@@ -7,7 +7,7 @@
 
 1. Prueba con detector(gray, 1) (upsampling) y compara detecciones/FPS.
 2. Calcula FPS promedio en 200 frames y repórtalo.
-3. (Opcional) Aplica un tracker cv2.KCF para mantener la caja entre frames.
+3. Aplica un tracker cv2.KCF para mantener la caja entre frames.
 
 ---
 
