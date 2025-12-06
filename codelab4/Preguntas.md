@@ -1,0 +1,1 @@
+# Compuerta XOR con red neuronal perceptron

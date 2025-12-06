@@ -1,0 +1,1 @@
+# Detección de objetos en imagenes con yolo lite
