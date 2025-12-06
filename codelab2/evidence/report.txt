@@ -1,0 +1,32 @@
+Imagen: img1.jpg
+  Tiempo promedio: 211.0 ms
+  Total detecciones: 1
+    thr=0.6: 1
+    thr=0.7: 1
+    thr=0.8: 1
+    thr=0.9: 1
+    thr=0.95: 1
+  Alineado: results/img1_aligned_0.png
+  Blur: results/img1_blur.png
+
+Imagen: img2.jpg
+  Tiempo promedio: 189.1 ms
+  Total detecciones: 6
+    thr=0.6: 6
+    thr=0.7: 6
+    thr=0.8: 6
+    thr=0.9: 6
+    thr=0.95: 6
+  Alineado: results/img2_aligned_0.png
+  Blur: results/img2_blur.png
+
+Imagen: img3.jpg
+  Tiempo promedio: 164.2 ms
+  Total detecciones: 1
+    thr=0.6: 1
+    thr=0.7: 1
+    thr=0.8: 1
+    thr=0.9: 1
+    thr=0.95: 1
+  Alineado: results/img3_aligned_0.png
+  Blur: results/img3_blur.png
