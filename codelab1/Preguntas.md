@@ -43,10 +43,10 @@ Capturando la excepción ***sr.RequestError*** y mostrando un mensaje de “No h
 
 ### 1. **Reproducir música en YouTube**
 - **Comando:** `reproduce [nombre de la canción]`
-  1. Toma el texto después de la palabra "reproduce".  
-  2. Busca ese texto en YouTube usando `requests`.  
-  3. Encuentra el primer enlace válido con `re`.  
-  4. Abre el video en el navegador con `webbrowser.open()`. 
+1. Toma el texto después de la palabra "reproduce".  
+2. Busca ese texto en YouTube usando `requests`.  
+3. Encuentra el primer enlace válido con `re`.  
+4. Abre el video en el navegador con `webbrowser.open()`. 
 
 ### 2. **Ajustar el brillo de la pantalla**
 - **Comando:** `brillo [valor]`  
@@ -57,10 +57,10 @@ Capturando la excepción ***sr.RequestError*** y mostrando un mensaje de “No h
 
 ### 3. **Captura de pantalla**
 - **Comando:** `captura [segundos]`  
-  1. Verifica si se indicó un número.  
-  2. Espera esa cantidad de segundos con `time.sleep()` (Por defecto 3 segundos).  
-  3. Toma la captura con `pyautogui.screenshot()`.  
-  4. Guarda el archivo con nombre único usando `datetime`.
+1. Verifica si se indicó un número.  
+2. Espera esa cantidad de segundos con `time.sleep()` (Por defecto 3 segundos).  
+3. Toma la captura con `pyautogui.screenshot()`.  
+4. Guarda el archivo con nombre único usando `datetime`.
 
 ## Prueba de funcionamiento 
 ### Detección de comandos
