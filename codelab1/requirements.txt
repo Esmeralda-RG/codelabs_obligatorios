@@ -1,0 +1,7 @@
+sounddevice==0.5.2
+scipy==1.16.1
+SpeechRecognition==3.14.3
+requests==2.32.5
+numpy==2.2.6
+pyautogui==0.9.54
+pillow==11.3.0

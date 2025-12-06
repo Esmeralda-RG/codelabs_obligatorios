@@ -1,0 +1,14 @@
+# Entorno virtual
+codelab1/.venv/
+
+# Variables de entorno
+codelab1/.env
+
+# Archivos comunes a ignorar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
