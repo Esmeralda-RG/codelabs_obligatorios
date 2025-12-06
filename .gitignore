@@ -1,5 +1,6 @@
 # Entorno virtual
 codelab1/.venv/
+codelab4/venv/
 
 # Variables de entorno
 codelab1/.env
