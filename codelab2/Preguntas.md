@@ -16,8 +16,7 @@
 ## Resultados
 
 ### Reporte 
-`evidence/report.txt`  
-![](evidence/report.txt)
+[Ver reporte](./evidence/report.txt)
 
 ---
 
