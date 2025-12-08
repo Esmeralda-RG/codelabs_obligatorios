@@ -1,7 +1,9 @@
 # Entorno virtual
 codelab1/.venv/
 codelab4/venv/
+codelab5/venv1/
 codelab6/venv2/
+
 
 # Variables de entorno
 codelab1/.env
@@ -15,5 +17,7 @@ __pycache__/
 # Archivos temporales
 *.log
 
+codelab5/yolov8n.pt
 codelab6/yolov8n.pt
+
 
