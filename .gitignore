@@ -3,7 +3,7 @@ codelab1/.venv/
 codelab4/venv/
 codelab5/venv1/
 codelab6/venv2/
-
+codelab7/.venv/
 
 # Variables de entorno
 codelab1/.env
@@ -19,5 +19,9 @@ __pycache__/
 
 codelab5/yolov8n.pt
 codelab6/yolov8n.pt
+
+codelab7/modelo.joblib
+codelab7/tfidf.joblib
+
 
 
